@@ -1,0 +1,6 @@
+export const primitiveValue = Symbol('to primitive value')
+export const operation = Symbol('value operation')
+export const constructor = Symbol('object constructor')
+export const prototype = Symbol('class prototype')
+export const iterator = Symbol('iterator')
+export const asyncIterator = Symbol('async iterator')
