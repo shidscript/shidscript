@@ -20,8 +20,5 @@ export { default as Identifier } from './Identifier'
 export { default as Variable } from './Variable'
 export { default as VariableDeclaration } from './VariableDeclaration'
 
-// Destructuring, WIP
-// TODO: make for more advanced destructured objects like: { a: { b: [ c, d: { e } ] } }
-
 export { default as ObjectPattern } from './ObjectPattern'
 export { default as ArrayPattern } from './ArrayPattern'
